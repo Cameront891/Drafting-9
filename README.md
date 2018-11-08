@@ -7,5 +7,4 @@ Only I can change my life
 
 | NCTM Drawing Tool  | TinkerCAD | TinkerCAD Codeblocks |
 | ------------- | ------------- | ---------------------
-| !Chair(http://oi67.tinypic.com/fk89kl.jpg) | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  |              |
+| (http://oi67.tinypic.com/fk89kl.jpg) | (http://oi65.tinypic.com/156s1lz.jpg) |  |
