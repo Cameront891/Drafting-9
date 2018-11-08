@@ -43,4 +43,4 @@ This is a picture of a wrench I made on TinkerCAD.
 
 | Program | 3D Design | Description |
 | ------------- | ------------- | ---------------------
-| http://oi67.tinypic.com/124hudf.jpg |  http://oi66.tinypic.com/33voqcn.jpg | https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci90MTU0MDQ5MDY4NTc3Nl8wNTM2ODEyMDc5MTc5NTMzM18xNTQwNDkwNjg2MDIzLm9iag?sheetId=ODE2MzMxZTYtODc4Zi00YTI3LTkzZDUtMGVmODllMTMxMDAy&designtype=obj | This is a picture of a cup. If you press the link it will redirect you to Auto Desk Viewer. I made it on TinkerCAD. |
+| http://oi67.tinypic.com/124hudf.jpg |  https://autode.sk/2SYmdiw | This is a picture of a cup. If you press the link it will redirect you to Auto Desk Viewer. I made it on TinkerCAD. |
