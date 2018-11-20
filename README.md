@@ -1,8 +1,8 @@
 # Drafting-9
 Only I can change my life
 
-
-!Rhino Sketch(https://i.pinimg.com/originals/db/f7/4a/dbf74af329d69a6838fcaca6c931ec2a.jpg)
+Rhino SKetch (I wasn't in class when we drew a Rhino so here is a picture of one I found online.)
+https://i.pinimg.com/originals/db/f7/4a/dbf74af329d69a6838fcaca6c931ec2a.jpg
 
 
 | NCTM Drawing Tool  | TinkerCAD | TinkerCAD Codeblocks |
