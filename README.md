@@ -16,19 +16,19 @@ This is a design made on TinkerCAD of a secret Islan called Skull Island
 
 
 
-http://oi63.tinypic.com/20zzjgw.jpg
+![tinypic](http://oi63.tinypic.com/20zzjgw.jpg)
 this is a picture of a table made on TinkerCAD
 
 
 
 
-http://oi64.tinypic.com/2z67zo0.jpg
+![tinypic](http://oi64.tinypic.com/2z67zo0.jpg)
 This is a picture of a rocket ship that I made on TinkerCAD. It also has my name written on it.
 
 
 
 
-http://oi67.tinypic.com/24gvtl3.jpg
+![tinypic](http://oi67.tinypic.com/24gvtl3.jpg)
 This is a picture of a hollow box that I have made on TinkerCAD.
 
 
