@@ -10,7 +10,7 @@ https://i.pinimg.com/originals/db/f7/4a/dbf74af329d69a6838fcaca6c931ec2a.jpg
 | (http://oi67.tinypic.com/fk89kl.jpg) | (http://oi65.tinypic.com/156s1lz.jpg) |  |
 
 
-http://oi63.tinypic.com/2igf9tl.jpg
+![tinypic](http://oi63.tinypic.com/2igf9tl.jpg)
 This is a design made on TinkerCAD of a secret Islan called Skull Island
 
 
