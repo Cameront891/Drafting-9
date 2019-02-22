@@ -40,7 +40,7 @@ This is a picture of a wrench I made on TinkerCAD.
 
 | Codeblock Table | Codeblock House |
 | ------------- | ------------- | 
-| ![tinypic](https://www.tinkercad.com/codeblocks?doc=2MrG6jzvnlF | https://www.tinkercad.com/codeblocks?doc=hKqGtLkEUPw |
+| ![tinypic](https://www.tinkercad.com/codeblocks?doc=2MrG6jzvnlF) | https://www.tinkercad.com/codeblocks?doc=hKqGtLkEUPw |
 | This is the link to a red table I made in codeblocks.| This is the link to a mini housem I made in codeblocks. |
 
 
@@ -61,7 +61,7 @@ https://i.pinimg.com/originals/db/f7/4a/dbf74af329d69a6838fcaca6c931ec2a.jpg
 
 | NCTM Drawing Tool  | TinkerCAD | TinkerCAD Codeblocks |
 | ------------- | ------------- | ---------------------
-| (http://oi67.tinypic.com/fk89kl.jpg) | (http://oi65.tinypic.com/156s1lz.jpg) |  |
+| ![tinypic](http://oi67.tinypic.com/fk89kl.jpg) |  ![tinypic](http://oi65.tinypic.com/156s1lz.jpg) |  |
 
 
 
